@@ -6,3 +6,4 @@ import { AuthModule } from './auth/auth.module';
   imports: [UserModule, AuthModule],
 })
 export class AppModule {}
+
